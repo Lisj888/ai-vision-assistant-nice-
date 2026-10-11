@@ -42,4 +42,4 @@ plt.legend()
 plt.savefig('iris_line.png')
 plt.show()
 
-print("三张图表已保存：iris_bar_chart.png、iris_scatter.png、iris_line.png")
+print("三张图表已保存：iris_bar_chart.png、iris_scatter.png、iris_line.png")# 三张图表分别展示了柱状图、散点图和折线图
