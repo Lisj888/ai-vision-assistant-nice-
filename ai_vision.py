@@ -1,4 +1,4 @@
-import dashscope
+import dashscope# 本项目基于通义千问API实现多功能视觉识别
 from dashscope import MultiModalConversation
 import gradio as gr
 import base64
