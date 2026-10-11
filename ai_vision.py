@@ -6,7 +6,7 @@ import io
 from PIL import Image
 
 # 你的 API Key（注意：别发到任何聊天框里）
-dashscope.api_key = "在这里填入你的API Key"
+dashscope.api_key = "sk-ws-H.PRMPHMH.cGqI.MEYCIQCxmQaLx_5K0Sla-3VMbx9FqlcJMgy9uG852bMz8nEmegIhAOWe34IgX89_l3kJsIbVcDoxWAdUuCaOqzV4HpqDqWff"
 
 # 不同功能对应的提示词
 PROMPTS = {
